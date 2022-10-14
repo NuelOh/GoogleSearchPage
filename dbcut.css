@@ -114,14 +114,6 @@ body {
   background-color: #f3f2f2;
 }
 
-.footer-up {
-  color: #70757a;
-}
-
-.footer a {
-  color: #70757a;
-  text-decoration: none;
-}
 
 .footer-up {
   display: flex;
@@ -129,6 +121,12 @@ body {
   align-items: center;
   padding-left: 2rem;
   height: 3rem;
+  color: #70757a;
+}
+
+.footer a {
+  color: #70757a;
+  text-decoration: none;
 }
 
 .footer-down {
@@ -156,3 +154,4 @@ body {
 .footer-down a:hover {
   text-decoration: underline;
 }
+
